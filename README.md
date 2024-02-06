@@ -1,4 +1,4 @@
-### Telephone Campaign Strategy for Fixed-Term Deposits
+## Telephone Campaign Strategy for Fixed-Term Deposits
 
 **Problem Description**
 
@@ -15,7 +15,9 @@ The banking entity AMACOR has launched a telephone campaign to promote its fixed
 **Objectives**
 
 🚀 Perform a detailed exploratory analysis of different client types present in the data.
+
 🚀 Develop a predictive model to identify clients with a higher likelihood of contracting a fixed-term deposit.
+
 🚀 Explain results and provide recommendations to improve future campaigns.
 
 **Available Data**
@@ -25,7 +27,9 @@ The dataset contains information about clients contacted during the campaign, in
 **Project Development**
 
 ⚡ Exploratory Analysis of Clients: Identify relevant patterns and segments.
+
 ⚡ Predictive Model: Develop a model to predict fixed-term deposit contracting.
+
 ⚡ Result Explanation: Analyze and explain the obtained results.
 
 **Conclusion**
